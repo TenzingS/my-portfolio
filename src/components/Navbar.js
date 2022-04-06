@@ -20,6 +20,9 @@ const Navbar = () => {
                         <Link to='home' smooth={true} duration={500}>Home</Link>
                         </li>
                         <li>
+                        <Link to='experience' smooth={true} duration={500}>Experience</Link>
+                        </li>
+                        <li>
                         <Link to='skills' smooth={true} duration={500}>Skills</Link>
                         </li>
                         <li>
