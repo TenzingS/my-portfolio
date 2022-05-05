@@ -10,11 +10,10 @@ const Experience = () => {
                 Relevant Experience
               </p>
             </div>
-            <div></div>
             </div>
             <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
               <div className='text-right text-4xl font-bold'>
-                <p>Hi. I'm Tenzing, nice to meet you. Please take a look at my relevant experience</p>
+                <p>Please take a look at my relevant experience</p>
               </div>
               <div>
                 <h2 className='font-bold'>Prime America Nepal INC Feb 2022 - April 2022</h2>
